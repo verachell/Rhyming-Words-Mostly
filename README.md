@@ -16,10 +16,10 @@ The ```Ong.txt``` list contains words ending in 'ong'.
 
 The ```AmeAim.txt``` list contains words ending in 'ame' and words ending in 'aim'. These have the same sound, so I combined those spellings into one list.
 
-Certain rhyming lists were omitted from this repository for various reasons, for example:
-```Ine.txt``` was omitted because many of the words within did not rhyme (e.g. pine vs magazine)
-```Omp.txt``` was omitted because there were only a few words in that list
-```IckIc.txt``` was omitted because many words did not rhyme (e.g. arctic vs aristocratic).
+Certain rhyming lists were omitted from this repository for various reasons, for example:  
+```Ine.txt``` was omitted because many of the words within did not rhyme (e.g. pine vs magazine)  
+```Omp.txt``` was omitted because there were only a few words in that list  
+```IckIc.txt``` was omitted because many words did not rhyme (e.g. arctic vs aristocratic).  
 
 ## Limitations
 - This is not an exhaustive list of every possible set of rhyming sounds. I came up with the different rhyming sounds used here manually, so there are certainly many sounds/spellings that I have not thought of yet. 
