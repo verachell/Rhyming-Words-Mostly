@@ -1,5 +1,5 @@
 # Rhyming Words Mostly
-English word lists organized by rhyming according to spelling of the end of the word
+English word lists organized by rhyme according to spelling of the end of the word
 
 These lists are constructed by grepping through a dictionary of words for certain spellings of word endings. Therefore, these mostly rhyme but are not guaranteed to - each list may contain some outliers which have a similar spelling but are pronounced differently.
 
